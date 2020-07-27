@@ -1,0 +1,2 @@
+rootProject.name='hellkitty'
+include ':app'
